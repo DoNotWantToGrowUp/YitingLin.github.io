@@ -1,0 +1,9 @@
+@article{Hua2018SP,
+title     = {2D Logistic-Sine-coupling map for image encryption},
+author    = {Hua, Zhongyun and Jin, Fan and Xu, Binxuan and Huang, Hejiao},
+journal   = {Signal Processing},
+volume    = {149},
+pages     = {148--161},
+year      = {2018},
+publisher = {Elsevier}
+}
