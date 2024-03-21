@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently affiliated with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Multimedia Security, Multimedia Forensics, Image Processingg, Nonlinear Systems and Applications, Secure Cloud Computing, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
+I am currently a research assistant at the Intelligent IoT and Security Innovation Laboratory of the University of Electronic Science and Technology of China. My research interests include Multimedia Security, Multimedia Forensics, Image Processingg, Nonlinear Systems and Applications, Secure Cloud Computing, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>Dr.YitingLin@gmail.com</B> or <B>YitingLin@stu.zsc.edu.cn</B>. 
 
-I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing, IEEE Transactions on Multimedia, and ACM Multimedia. I have been recognized as a 'Highly Cited Researcher 2022'. I have published about eighty research papers. I am an associate editor of International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
+My works have appeared in venues such as Expert Systems with Applications, IScience, Journal of King Saud University - Computer and Information Sciences, Engineering Science and Technology - an International Journal, and IEEE Photonics Journal . I have published about eighty research papers.  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
 
 My research interests include:
 - Multimedia Security, Multimedia Forensics, Image Processing
@@ -21,12 +21,10 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS </li>
-  <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
-  <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
-  <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
-  <li><em>2023.11</em>:  🎉🎉I was recognized as a 'Highly Cited Researcher 2023'</li>
-  <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
+  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by Expert Systems with Applications </li>
+  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by Physica Scripta </li>
+  <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by Engineering Science and Technology, an International Journal </li>
+  <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by Journal of King Saud University - Computer and Information Sciences </li>
 </ul>
 
 <h1 id="-Publications">📝 Publications</h1>
@@ -35,41 +33,75 @@ My research interests include:
 
 <ol id="olstyle">
 
- <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
-
+<h4 id="Cryptanalysis:">Cryptanalysis:</h4>
  
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Fan Jin, Binxuan Xu, Hejiao Huang, "2D Logistic-Sine-Coupling Map for Image Encryption", <B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]
-		<a href="https://www.sciencedirect.com/science/article/pii/S0165168418301087" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Logistic-Sine-Coupling Map for Image Encryption.pdf" target="_blank">[pdf]</a>
-		<a href="..\wp-content\themes\homepage\BibTex\2D Logistic-Sine-Coupling Map for Image Encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> Heping Wen, <B>Yiting Lin</B>, "Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding", <B><I>Expert Systems with Applications</I></B>, Vol. 237, p. 121514, 2024. <!-- [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]-->
+		<a href="https://doi.org/10.1016/j.eswa.2023.121514" target="_blank">[doi]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/pdf/2D Logistic-Sine-Coupling Map for Image Encryption.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/BibTex/Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding.bib" target="_blank">[BibTeX]</a>
+		<!-- <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a>--> 
+</li>
+<li id="paperdistance"> Heping Wen, <B>Yiting Lin</B>, Zhaoyang Feng, "Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps", <B><I>Engineering Science and Technology, an International Journal</I></B>, Vol. 51, p. 101634, 2024. <!-- [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]-->
+		<a href="https://doi.org/10.1016/j.jestch.2024.101634" target="_blank">[doi]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/pdf/Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/BibTex/Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps.bib" target="_blank">[BibTeX]</a>
+		<!-- <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a>--> 
+</li>
+<li id="paperdistance"> Heping Wen, <B>Yiting Lin</B>, "Cryptanalyzing an image cipher using multiple chaos and DNA operations", <B><I>Journal of King Saud University - Computer and Information Sciences</I></B>, Vol. 35, p. 101612, 2023. <!-- [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]-->
+		<a href="https://doi.org/10.1016/j.jksuci.2023.101612" target="_blank">[doi]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/pdf/Cryptanalyzing an image cipher using multiple chaos and DNA operations.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/BibTex/Cryptanalyzing an image cipher using multiple chaos and DNA operations.bib" target="_blank">[BibTeX]</a>
+		<!-- <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a>--> 
+</li>
+<li id="paperdistance"> Heping Wen, Ruiting Chen, Jieyi Yang, Tianle Zheng, Jiahao Wu, Wenxing Lin, Huilin Jian, <B>Yiting Lin</B>, Linchao Ma, Zhen Liu, Chongfu Zhang, "Security Analysis of a Color Image Encryption Based on Bit-Level and Chaotic Map", <B><I>Multimedia Tools and Applications</I></B>, Vol. 83, p. 4133--4149, 2023. <!-- [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]-->
+		<a href="https://doi.org/10.1007/s11042-023-14921-0" target="_blank">[doi]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/pdf/Security Analysis of a Color Image Encryption Based on Bit-Level and Chaotic Map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/BibTex/Security Analysis of a Color Image Encryption Based on Bit-Level and Chaotic Map.bib" target="_blank">[BibTeX]</a>
+		<!-- <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a>--> 
+</li>
 
+ <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4> 
 
-<h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
+<li id="paperdistance"> Heping Wen, <B>Yiting Lin</B>, Shenghao Kang, Xiangyu Zhang, Kun Zou, "Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion", <B><I>iScience</I></B>, Vol. 27, Issue 1, p. 108610, 2024. <!-- [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]-->
+		<a href="https://doi.org/10.1016/j.isci.2023.108610" target="_blank">[doi]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/pdf/Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/BibTex/Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion.bib" target="_blank">[BibTeX]</a>
+		<!-- <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a>--> 
+</li>
+<li id="paperdistance"> Heping Wen, <B>Yiting Lin</B>, Zhiyu Xie, Tengyu Liu, "Chaos-based block permutation and dynamic sequence multiplexing for video encryption", <B><I>Scientific Reports</I></B>, Vol. 13, Issue 1, 2023. <!-- [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]-->
+		<a href="https://doi.org/10.1038/s41598-023-41082-9" target="_blank">[doi]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/pdf/Chaos-based block permutation and dynamic sequence multiplexing for video encryption.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/DoNotWantToGrowUp/YitingLin.github.io/tree/master/BibTex/Chaos-based block permutation and dynamic sequence multiplexing for video encryption.bib" target="_blank">[BibTeX]</a>
+		<!-- <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a>--> 
+</li>
 
-<li id="paperdistance">   Bocheng Bao, Kang Rong, Houzhen Li , IEEE, Kexin Li, <B>Zhongyun Hua</B>, and Xi Zhang, "Memristor-Coupled Logistic Hyperchaotic Map", <B><I>IEEE Transactions on Circuits and Systems II: Express Briefs</I></B>, vol. 68, no. 8, pp. 2992-2996, 2021. 
-<a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
-<li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
-<a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
 </ol>
 
-<h3 id="Conference Papers">Conference Papers</h3>
+<!--<h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference, 2024.</li>
-	
-</ol>
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference, 2024.</li>-->
 
 <h1 id="-Peer Review">➿ Peer Review</h1>
-<li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
-<li>Reviewer,  IEEE Transactions on Cybernetics</li>
-<li>Reviewer,  IEEE Transactions on Industrial Informatics</li>
-<li>Reviewer,  IEEE Transactions on Industrial Electronics</li>
-<li>Reviewer,  IEEE Transactions on Signal Processing</li>
-<li>Reviewer,  IEEE Transactions on Circuits and Systems II: Express Briefs, etc</li>
-<li>Reviewer,  IEEE Transactions on Circuits and Systems I: Regular Papers</li>
+<li>Reviewer,  Expert systems with applications</li>
+<li>Reviewer,  Computer vision and image understanding</li>
+<li>Reviewer,  Journal of King Saud University Computer and Information Sciences</li>
+<li>Reviewer,  The European physical journal plus</li>
+<li>Reviewer,  iScience</li>
+<li>Reviewer,  AIMS mathematics</li>
+<li>Reviewer,  Computers, materials & continua</li>
+<li>Reviewer,  Electronics</li>
+<li>Reviewer,  Digital signal processing</li>
+<li>Reviewer,  Turkish Journal of Electrical Engineering and Computer Sciences</li>
+<li>Reviewer,  Fractal and fractional</li>
+<li>Reviewer,  IFAC journal of systems and control</li>
+<li>Reviewer,  Mathematics</li>
+<li>Reviewer,  Sensors</li>
+<li>Reviewer,  SN Applied Sciences</li>
+<li>Reviewer,  Microprocessors and microsystems</li>
+<li>Reviewer,  IEEE access</li>
 
-<h1 id="-Honours and Recognitions">🏅 Honours and Recognitions</h1>
+<!-- <h1 id="-Honours and Recognitions">🏅 Honours and Recognitions</h1>
 <li>2022  Highly Cited Researcher <a href="https://www.webofscience.com/wos/author/record/F-1887-2016">6,938 researchers all over the world</a></li>
 <li>2022  Chinese Most Cited Researchers</li>
 <li>2021  Chinese Most Cited Researchers</li>
@@ -89,9 +121,9 @@ My research interests include:
 
 <li>Most Downloaded Papers in <I>Information Sciences</I> and <I>Signal Processing</I></li>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
-<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. (2018-2019) <br>
+<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. (2018-2019) <br> -->
 
-<h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
+<!--<h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
 <ul>
   <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
   <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
@@ -100,29 +132,27 @@ My research interests include:
   <li><em>2020/10/30 - 11/01</em>, 2020 International Conference on Security and Privacy in Digital Economy, Section Chair</li>
   <li><em>2020/10/30 - 11/01</em>, 2018 IEEE International Conference on SMC, Special Section Chair</li>
   <li><em>2023 - Now</em>, IEEE Senior Member</li>
-</ul>
+</ul>-->
 
 
 <h1 id="-Educations">🎓 Educations</h1>
 <ul>
-  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
+  <!--<li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>-->
+  <li><em>2020.09 - 2024.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Zhongshan Institute, University of Electronic Science and Technology of China</li>
 </ul>
 
 
 <h1 id="-Research Experience">💻 Research Experience</h1>
 <ul>
-  <li><em>2018.03 - Now</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
-  <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
-  <li><em>2010.10 - 2011.04</em>, Research Intern, New Tech Department, Hewlett Packard</li>
+  <li><em>2020.09 - Now</em>, Research Assistant, School of Electronic Science and Engineering, University of Electronic Science and Technology of China</li>
 </ul>
 
-<h1 id="-Research Grants">🔍 Research Grants (Selected)</h1>
+<!--<h1 id="-Research Grants">🔍 Research Grants (Selected)</h1>
 <ul>
   <li>Research on high-dimensional robust chaos mechanism and its application in generative adversarial network, the National Natural Science Foundation of China, 62071142, 2021.01-2020.24, PI (570K CNY).</li>
   <li>High-Dimensional Chaos Theory with Application in Secure Communication, the Guangdong Basic and Applied Basic Research Foundation, 2021A1515011406, 2021.1-2023.12, PI (100 K CNY).</li>
   <li>Research on Designing New Chaotic Systems with Robust Chaos and Their Applications, the National Natural Science Foundation of China, 61701137, 2018.01-2020.12, PI (260K CNY).</li>
-</ul>
+</ul>-->
 
 
