@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Peer Review"
-permalink: /cv/
+title: "Professional activities"
+permalink: /Professional activities/
 author_profile: true
 redirect_from:
   - /resume

@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a research assistant at the Intelligent IoT and Security Innovation Laboratory of the University of Electronic Science and Technology of China. My research interests include Multimedia Security, Multimedia Forensics, Image Processingg, Nonlinear Systems and Applications, Secure Cloud Computing, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>Dr.YitingLin@gmail.com</B> or <B>YitingLin@stu.zsc.edu.cn</B>. 
 
-My works have appeared in venues such as Expert Systems with Applications, IScience, Journal of King Saud University - Computer and Information Sciences, Engineering Science and Technology - an International Journal, and IEEE Photonics Journal . I have published about eighty research papers.  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
+My works have appeared in venues such as Expert Systems with Applications, IScience, Journal of King Saud University - Computer and Information Sciences, Engineering Science and Technology - an International Journal, and IEEE Photonics Journal . I have published about eighty research papers. 
 
 My research interests include:
 - Multimedia Security, Multimedia Forensics, Image Processing

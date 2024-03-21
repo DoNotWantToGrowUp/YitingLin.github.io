@@ -5,10 +5,10 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/    
-
+#
 #  - title: "Teaching"
 #    url: /teaching/    
-    
+#  
 #  - title: "Portfolio"
 #    url: /portfolio/
         
@@ -21,7 +21,7 @@ main:
   - title: "Employment"
     url: /Employment/
 
-  - title: "Professional activities "
+  - title: "Professional activities"
     url: /Professional activities /   
 
   - title: "Honor"
